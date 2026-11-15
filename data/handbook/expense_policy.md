@@ -1,0 +1,3 @@
+# Expense and Travel Policy
+
+Employees can claim reasonable business expenses with valid receipts. Claims must be submitted within 30 days of the expense through the finance app. Meals during business travel are reimbursed up to 1,500 rupees per day. Domestic flights must be booked in economy class at least 7 days before travel, and hotel stays are capped at 6,000 rupees per night in metro cities. Expenses above 25,000 rupees need prior written approval from a director. Personal items, fines, and alcohol are not reimbursable. Reimbursements are paid in the next payroll cycle after approval. Client entertainment is allowed with manager approval and is limited to 3,000 rupees per person.

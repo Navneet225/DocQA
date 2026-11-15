@@ -1,0 +1,3 @@
+# New Joiner Onboarding
+
+On the first day, new joiners collect their laptop and access cards from the IT desk on the second floor before 11:00 AM. Orientation takes place in the main auditorium at 11:30 AM and includes a security briefing. Every new joiner is assigned a buddy for the first 60 days who helps with questions about tools and processes. By the end of week one, you should complete the mandatory compliance training modules and set up your development environment using the setup guide. A 30-60-90 day plan is agreed with your manager in the first two weeks. The probation period lasts 6 months, and a review meeting is held at the end of month three. Health insurance cards are issued within 10 working days of joining.

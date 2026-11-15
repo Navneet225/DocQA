@@ -1,0 +1,3 @@
+# Leave Policy
+
+Full-time employees receive 24 days of paid annual leave per calendar year. Leave accrues monthly at two days per month and up to 10 unused days can be carried forward into the next year. Sick leave is separate: employees get 12 days of paid sick leave per year, and a medical certificate is required when sick leave exceeds three consecutive days. Parental leave is 26 weeks for the primary caregiver and 4 weeks for the secondary caregiver. To request annual leave, submit the request in the HR portal at least 5 working days in advance and get approval from your manager. Public holidays are announced each January and are not deducted from annual leave. Unpaid leave of up to 30 days can be approved by a department head for personal reasons.

@@ -1,0 +1,3 @@
+# Information Security Policy
+
+All company laptops use full-disk encryption and must lock automatically after 5 minutes of inactivity. Passwords must be at least 14 characters and are managed with the company password manager. Multi-factor authentication is mandatory for email, the code repository, and the cloud console. Never share credentials over chat or email. Lost or stolen devices must be reported to the security team within one hour. Customer data may only be stored in approved systems and must never be copied to personal drives. Phishing emails should be forwarded to the security mailbox. Production access is granted for a maximum of 8 hours at a time and every session is logged and reviewed monthly.

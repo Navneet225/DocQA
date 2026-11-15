@@ -1,0 +1,3 @@
+# Remote and Hybrid Work
+
+Teams follow a hybrid model with three days in the office and two days remote each week unless the manager approves a different arrangement. Core collaboration hours are 11:00 AM to 4:00 PM, during which employees should be available on chat. Employees may work from another city for up to 20 days per year with manager approval, and working from another country requires approval from HR and legal because of tax and visa rules. A one-time home office allowance of 15,000 rupees is provided for a desk, chair, or monitor, and a monthly internet allowance of 1,000 rupees is paid with salary. Company equipment must not be used by family members.

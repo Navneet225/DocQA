@@ -1,0 +1,3 @@
+# On-Call and Incident Response
+
+Engineers on the platform team join a weekly on-call rotation that changes every Monday at 10:00 AM. The primary on-call must acknowledge a page within 10 minutes, and the secondary on-call is paged automatically if there is no acknowledgement after 15 minutes. Incidents are classified as SEV1 (customer-facing outage), SEV2 (degraded service) and SEV3 (minor issue). For a SEV1 incident, the incident commander opens a dedicated chat channel and posts status updates every 30 minutes. A written post-incident review must be completed within 5 working days of any SEV1 or SEV2 incident. On-call engineers receive a compensatory day off for each week of on-call duty and an additional allowance for weekend pages.
